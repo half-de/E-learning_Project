@@ -1,0 +1,45 @@
+
+
+.learn{
+    color: #10C843 !important;
+}
+
+.home{
+    color: #10C843 !important;
+    border-bottom:  solid 2px !important;
+}
+
+
+.Start-battom{
+    background-color: #10C843 !important;
+}
+
+
+.expertise{
+    color: #10C843 !important;
+}
+
+.Login-button{
+    color: #10C843 !important;
+    border: #10C843 solid 1px !important; 
+}
+
+.bagrand{
+    background: var(--secondary-color-black, #1E1E1E) !important;
+}
+
+.margen{
+    margin-left: 145px;
+}
+
+
+@media only screen and (max-width:768px) {
+
+    .line{
+        display: none;
+    }
+
+
+   
+
+}
