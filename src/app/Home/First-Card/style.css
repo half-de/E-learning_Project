@@ -1,45 +1,92 @@
-
-
-.learn{
+.learn {
     color: #10C843 !important;
+    font-family: Pangea Afrikan Trial;
 }
 
-.home{
+.home {
     color: #10C843 !important;
-    border-bottom:  solid 2px !important;
+    border-bottom: solid 2px !important;
 }
 
 
-.Start-battom{
+.Start-battom {
     background-color: #10C843 !important;
 }
 
 
-.expertise{
+.expertise {
     color: #10C843 !important;
 }
 
-.Login-button{
+.Login-button {
     color: #10C843 !important;
-    border: #10C843 solid 1px !important; 
+    border: #10C843 solid 1px !important;
+
 }
 
-.bagrand{
+.bagrand {
     background: var(--secondary-color-black, #1E1E1E) !important;
 }
 
-.margen{
+.margen {
     margin-left: 145px;
 }
+
+.main-button {
+    margin-left: 200px;
+
+}
+
+
+.main-dropdown {
+    margin-top: 100px !important;
+    margin-left: 300px;
+    position: absolute;
+}
+
+
 
 
 @media only screen and (max-width:768px) {
 
-    .line{
+    .line {
         display: none;
     }
 
+    .main-button {
+        margin-left: 0px !important;
+    }
 
-   
 
+    .dropdown {
+        margin-left: 0px !important;
+        width: 365px !important;
+    }
+
+
+    .next-button {
+        width: auto;
+    }
+
+
+
+    .dropdown {
+
+        margin-top: 0px !important;
+        margin-right: 0px;
+
+    }
+
+}
+
+.dropdown {
+    background-color: rgb(252, 249, 249) !important;
+    border-radius: 52px;
+    margin-top: 120px;
+    margin-right: -200px;
+
+}
+
+.next-button {
+    width: 200px !important;
 }
