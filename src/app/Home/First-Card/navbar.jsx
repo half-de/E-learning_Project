@@ -22,7 +22,7 @@ function navbar() {
         <div className='container '>
             <nav class="navbar navbar-expand-lg  rounded" aria-label="Thirteenth navbar example">
                 <div class="container-fluid">
-                    <a class="navbar-brand col-lg-3 me-0 fw-bold learn" href="#">eLearning</a>
+                    <a class="navbar-brand col-lg-3 me-0 fw-bold learn" href="#">eLearningg</a>
                     <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample11" aria-controls="navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
