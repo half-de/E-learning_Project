@@ -7,7 +7,7 @@ import arro from './images/arro.svg'
 import down from './images/down.svg'
 import girl from './images/Frame.svg'
 import '../First-Card/style.css'
-
+import search1 from './images/search1.svg'
 
 
 
