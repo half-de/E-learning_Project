@@ -52,7 +52,7 @@ function navbar() {
 
                         <div className='float-end main-button d-flex'>
                             <a href=""><Image src={search} className='img-fluid  m-1 search-button ' /></a>
-                            <button class="btn Start-battom rounded-5 px-2 py-2 text-white next-button border ms-2">Start Free Triali<Image src={arr} className='img-fluid' /> </button>
+                            <button class="btn Start-battom rounded-5 px-2 py-2 text-white next-button border ms-2">Start Free Triali<Image src={search} className='img-fluid' /> </button>
                         </div>
                     </div>
                 </div>
