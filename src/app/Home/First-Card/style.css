@@ -81,9 +81,9 @@
 
 .dropdown {
     background-color: rgb(252, 249, 249) !important;
-    border-radius: 52px;
-    margin-top: 120px;
-    margin-right: -200px;
+    border-radius: 52px !important;
+    margin-top: 120px !important;
+    margin-right: -200px !important;
 
 }
 
