@@ -97,7 +97,7 @@ const sixpage = (props) => {
 
         </div>
 
-        &nbsp;  &nbsp; &nbsp;
+        &nbsp;
 
 
 
